@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\SFML anim\\SFML_animation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4348DA8A-7DFF-4F4C-85E9-8191E0F8487F}|SFML_animation\\SFML_animation.vcxproj|D:\\Coding\\SFML anim\\SFML_animation\\SFML_animation\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4348DA8A-7DFF-4F4C-85E9-8191E0F8487F}|SFML_animation\\SFML_animation.vcxproj|solutionrelative:SFML_animation\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Coding\\SFML anim\\SFML_animation\\SFML_animation\\main.cpp",
+              "RelativeDocumentMoniker": "SFML_animation\\main.cpp",
+              "ToolTip": "D:\\Coding\\SFML anim\\SFML_animation\\SFML_animation\\main.cpp",
+              "RelativeToolTip": "SFML_animation\\main.cpp",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAcwGAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-11T05:32:17.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

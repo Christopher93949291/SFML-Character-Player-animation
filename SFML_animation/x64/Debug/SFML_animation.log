@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\Coding\SFML anim\SFML_animation\SFML_animation\main.cpp(86,27): warning C4244: “初始化”: 从“T”转换到“float”，可能丢失数据
+D:\Coding\SFML anim\SFML_animation\SFML_animation\main.cpp(86,27): warning C4244:         with
+D:\Coding\SFML anim\SFML_animation\SFML_animation\main.cpp(86,27): warning C4244:         [
+D:\Coding\SFML anim\SFML_animation\SFML_animation\main.cpp(86,27): warning C4244:             T=unsigned int
+D:\Coding\SFML anim\SFML_animation\SFML_animation\main.cpp(86,27): warning C4244:         ]
+D:\Coding\SFML anim\SFML_animation\SFML_animation\main.cpp(87,28): warning C4244: “初始化”: 从“T”转换到“float”，可能丢失数据
+D:\Coding\SFML anim\SFML_animation\SFML_animation\main.cpp(87,28): warning C4244:         with
+D:\Coding\SFML anim\SFML_animation\SFML_animation\main.cpp(87,28): warning C4244:         [
+D:\Coding\SFML anim\SFML_animation\SFML_animation\main.cpp(87,28): warning C4244:             T=unsigned int
+D:\Coding\SFML anim\SFML_animation\SFML_animation\main.cpp(87,28): warning C4244:         ]
+  SFML_animation.vcxproj -> D:\Coding\SFML anim\SFML_animation\x64\Debug\SFML_animation.exe
